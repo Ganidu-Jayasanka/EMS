@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "G36RZzW507c=",
+  "success": true,
+  "projectFilePath": "D:\\Local Disk (D)\\Projects\\EMS\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganiduj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\servicestack.text\\8.8.0\\servicestack.text.8.8.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.5\\swashbuckle.aspnetcore.9.0.5.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.5\\swashbuckle.aspnetcore.swagger.9.0.5.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.5\\swashbuckle.aspnetcore.swaggergen.9.0.5.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.5\\swashbuckle.aspnetcore.swaggerui.9.0.5.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\ganiduj\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
